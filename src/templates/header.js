@@ -1,4 +1,4 @@
-const header = () => {
+const Header = () => {
     const view = `
         <div class="header-main">
             <div class="header-logo">
@@ -18,4 +18,4 @@ const header = () => {
     return view;
 };
 
-export default header;
+export default Header;

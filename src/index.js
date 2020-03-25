@@ -1,1 +1,3 @@
-console.log("Hola mundo cruel");
+import router from './routes';
+
+window.addEventListener('load', router);
